@@ -7,6 +7,7 @@ Solutions to exercises from https://leetcode.com
 - [Longest common prefix](./src/longest-common-prefix.ts)
 - [Median of two sorted arrays](./src/median-of-two-sorted-arrays.ts)
 - [Palindrome numbers](./src/palindrome-number.ts)
+- [Remove duplicates from sorted array](./src/remove-duplicates-from-sorted-array.ts)
 - [Reverse integer](./src/reverse-integer.ts)
 - [Roman to integer](./src/roman-to-integer.ts)
 - [Sum of two integers](./src/sum-of-two-integers.ts)
