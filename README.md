@@ -6,6 +6,7 @@ Solutions to exercises from https://leetcode.com
 - [Integer to roman](./src/integer-to-roman.ts)
 - [Longest common prefix](./src/longest-common-prefix.ts)
 - [Median of two sorted arrays](./src/median-of-two-sorted-arrays.ts)
+- [Merge two sorted lists](./src/merge-two-sorted-list.ts)
 - [Palindrome numbers](./src/palindrome-number.ts)
 - [Remove duplicates from sorted array](./src/remove-duplicates-from-sorted-array.ts)
 - [Reverse integer](./src/reverse-integer.ts)
