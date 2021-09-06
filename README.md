@@ -4,6 +4,7 @@ Solutions to exercises from https://leetcode.com
 
 - [Add two numbers](./src/add-two-numbers.ts)
 - [Integer to roman](./src/integer-to-roman.ts)
+- [Longest common prefix](./src/longest-common-prefix.ts)
 - [Median of two sorted arrays](./src/median-of-two-sorted-arrays.ts)
 - [Palindrome numbers](./src/palindrome-number.ts)
 - [Reverse integer](./src/reverse-integer.ts)
